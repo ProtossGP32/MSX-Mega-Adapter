@@ -14,3 +14,7 @@
 
 resources/
 export/MSX Mega Adapter.zip
+
+# FreeCAD backup files
+**/*.FCBak
+**/*-backups/
